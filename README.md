@@ -4,7 +4,7 @@
 Welcome to my page! </br>
 I'm Madalin, a Fullstack Web developer currently living in
 <img src="https://www.flaticon.com/svg/static/icons/svg/323/323329.svg" width="15"/> <b>UK</b>. </p>
-![Hi, I'm Madalin 👋 I'm a Full Stack Developer I ❤️ coding!](https://github.com/mdLn1/mdLn1/raw/main/assets/for-github-gif.gif)
+<p><img alt="Hi, I'm Madalin 👋 I'm a Full Stack Developer I ❤️ coding!" src="https://github.com/mdLn1/mdLn1/raw/main/assets/for-github-gif.gif"/></p>
 <h3>This is what I use in my projects</h3>
 
 <p>
